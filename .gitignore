@@ -8,3 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Rebuildable on-disk training matrix for Exercise 2.3
+assets/msd_train_scaled.npy
+
+# Downloadable music dataset (keep local; too large for regular GitHub files)
+YearPredictionMSD.txt
+YearPredictionMSD.txt.zip
+
+# macOS metadata
+.DS_Store
